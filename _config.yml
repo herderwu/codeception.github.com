@@ -25,3 +25,5 @@ algolia:
 banner:
   # disable content to show last blogpost
   content: '<a href="https://opencollective.com/codeception">Codeception is on OpenCollective! Support us 💖</a>'
+
+theme: jekyll-theme-architect
